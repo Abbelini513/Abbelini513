@@ -40,7 +40,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo0YTJldXM3ZjB2bGMxdjV0eGlpcXBwc20yaGd6Z3I1OTdyajZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWgx3EEyEvJcs/giphy.gif" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo0YTJldXM3ZjB2bGMxdjV0eGlpcXBwc20yaGd6Z3I1OTdyajZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWgx3EEyEvJcs/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 </div>
 <div>
