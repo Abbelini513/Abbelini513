@@ -11,7 +11,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE3MWkwc2Y4ems4Z3ZzOG44cm1qOW91djF0NXVvdnFjNjRwc3Q1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMRB0OEsqJMiI/giphy.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Alina (you can also call me Alisha ) </li>
+ <b>Name:</b> Alina (you can also call me Alisha) </li>
 <li>
 <b>Fursona:</b> Golden Foxy w/ big ears 
 </li>
@@ -47,7 +47,7 @@
   <br>
 <p align="center"><img src="https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker"/><img src="https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode"/><br>
  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown"/> <img src="https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git"/> <br><br>
-My first degree is in nuclear physics ☢️ (thanks to my childhood obsession with S.T.A.L.K.E.R and METRO games). I worked on automating a nuclear waste processing plant and kept an eye on the process 👷‍♀️. Eventually, I realized I enjoy modeling processes in silico more because I want to get a deeper understanding of the physics behind them, and for that, you just can't do without programming 👾.
+My first degree is in nuclear physics ☢️ (thanks to my childhood obsession with S.T.A.L.K.E.R and METRO games). I worked on automating a nuclear waste processing plant and kept an eye on the process 👷‍♀️ Eventually, I realized I enjoy modeling processes in silico more because I want to get a deeper understanding of the physics behind them, and for that, you just can't do without programming 👾
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
