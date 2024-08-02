@@ -52,7 +52,7 @@ My first degree is in nuclear physics ☢️ (thanks to my childhood obsession w
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="418" src="https://giphy.com/embed/5VfNPyYqdiMCHWwPmo/video" width="480"></iframe></div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZkd3VyZmIwNW4zZTdnaDJsdGV2NTMzdGM4dWx5dmJiajYzdXA0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPUKkFPBXjNPG/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Here are some of my <br>
