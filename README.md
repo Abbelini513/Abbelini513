@@ -3,7 +3,7 @@
 <h1 align="center">~ 💖 𝓗𝓮𝔂, 𝓲𝓽'𝓼 𝓼𝓸 𝓬𝓾𝓽𝓮 𝔂𝓸𝓾'𝓻𝓮 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓲𝓷 𝓶𝓮> 💖 ~</h1>
 <br>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl0bmF6MWJuYjU0dno5OGw3eDZtMWM2ajF2bG9lMTdqb3pmeXR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Wb0g41GJTM0E/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl0bmF6MWJuYjU0dno5OGw3eDZtMWM2ajF2bG9lMTdqb3pmeXR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Wb0g41GJTM0E/giphy.gif">
 </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
