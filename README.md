@@ -52,7 +52,7 @@ My first degree is in nuclear physics ☢️ (thanks to my childhood obsession w
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://giphy.com/clips/love-flower-sweet-5VfNPyYqdiMCHWwPmo" align="right" width="373.5px" height="208.5px">
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="418" src="https://giphy.com/embed/5VfNPyYqdiMCHWwPmo/video" width="480"></iframe></div>
   </div>
 <br>
 <p align="center">Here are some of my <br>
