@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓗𝓮𝔂, 𝓲𝓽'𝓼 𝓼𝓸 𝓬𝓾𝓽𝓮 𝔂𝓸𝓾'𝓻𝓮 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓲𝓷 𝓶𝓮 💖 ~</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BF10F7&center=true&multiline=true&width=800&height=70&lines=Hello!+It's+so+cute+you're+interested+in+me+~;%EA%A7%81I'm+Alisha%2C+junior+ml-researcher+and+science+girl+wannabe%EA%A7%82" alt="Typing SVG" /></a>
 <br>
 <div id="header" align="center">
 </div>
