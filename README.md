@@ -3,8 +3,6 @@
 <h1 align="center">~ 💖 𝓗𝓮𝔂, 𝓲𝓽'𝓼 𝓼𝓸 𝓬𝓾𝓽𝓮 𝔂𝓸𝓾'𝓻𝓮 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓲𝓷 𝓶𝓮 💖 ~</h1>
 <br>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl0bmF6MWJuYjU0dno5OGw3eDZtMWM2ajF2bG9lMTdqb3pmeXR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Wb0g41GJTM0E/giphy.gif">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+It's+so+cute+you're+interested+in+me+~;%EA%A7%81I'm+Alisha%2C+junior+ml-researcher+and+science+girl+wannabe%EA%A7%82" alt="Typing SVG" /></a>
 </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
