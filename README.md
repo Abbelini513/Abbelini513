@@ -16,7 +16,7 @@
 <b>Age:</b> 24 
 </li>
 <li>
-<b>Interested in: Modeling physical and biochemical processes using machine learning and AI 
+<b>Interested in: Modeling physical and biochemical processes using machine learning 
 </li>
 <li>
 <b>Loves:</b> Art, Animals, Action RPG games
