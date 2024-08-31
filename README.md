@@ -41,7 +41,7 @@
 <div>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker"/><img src="https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode"/><br>
- <img src="https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown"/> <img src="https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git"/> <br><br>
+ <img src="https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown"/> <img src="https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git"/> <br>
 My first degree is in nuclear physics ☢️ (thanks to my childhood obsession with S.T.A.L.K.E.R and METRO games). I worked on automating a nuclear waste processing plant and kept an eye on the process 👷‍♀️ Eventually, I realized I enjoy modeling processes in silico more because I want to get a deeper understanding of the physics behind them, and for that, you just can't do without programming 👾
 </p>
 <br>
