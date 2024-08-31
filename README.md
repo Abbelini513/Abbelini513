@@ -28,6 +28,7 @@
 <li>
 <b>MSc thesis:</b> In silico modeling for biochemical processes of liver fibrosis based on physics-informed machine learning
 </li>
+<br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
