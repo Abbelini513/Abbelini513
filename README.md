@@ -35,7 +35,7 @@
 <br>
 <p>
  <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtNW9hdDM0djZsNjNxdWhwbWY0YXcxdzJnaTd0emo2Mjh2aTU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c3jAHyF6ac9bRxMkyG/giphy.gif" alt="Knowledge GIF" align="right" width="400" height="300">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN1bmt4aWdwamt0MmIybWxneTdqNWJheW1tcGR0eHFwemhreTlkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLLVLetSfovbdQ7Jif/giphy.gif" alt="Knowledge GIF" align="right" width="300" height="400">
 </div>
 </p>
 <div>
@@ -78,21 +78,25 @@ My first degree is in nuclear physics ☢️ (thanks to my childhood obsession w
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxtODRiMzlpMjRqYndkejF2emcxOGd0Y2c4bXU3YW91djYwc3czZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BAS4Iv3np9e2vzpaQ8/giphy.gif" align="right" width="208.5px" height="208.5px">
-  </div>
-<br>
-<p align="left">
-Here are some of my most used social things, where you can find <br>
-the latest updates of my life ~ </p>
-<p align="center"><a href="https://www.instagram.com/abbelini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple"/></a> <a href="https://steamcommunity.com/id/abbelini513/" target="_blank"><img src="https://img.shields.io/badge/Steam-darkblue"/></a> <br>
-<a href="https://www.linkedin.com/in/alina-bondareva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a><a href="https://www.researchgate.net/profile/Alina-Bondareva" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-white"></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">❣️ ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝔂𝓸𝓾𝓻 𝓪𝓽𝓽𝓮𝓷𝓽𝓲𝓸𝓷! ~ ❣️</h2>
-<div align="center">
-</div>
-</div>
-    </center>
+  <br>
+<p align="center">
+Here are some of my most used social things, where you can find the latest updates of my life ~ 
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/abbelini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple"/></a>
+  <a href="https://steamcommunity.com/id/abbelini513/" target="_blank"><img src="https://img.shields.io/badge/Steam-darkblue"/></a>
+  <a href="https://www.linkedin.com/in/alina-bondareva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
+  <a href="https://www.researchgate.net/profile/Alina-Bondareva" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-white"></a>
+</p>
+  <br>
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000" alt="Telegram" width="24px" height="24px">
+  <span>@abbelini</span>
+  <br>
+  <img src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000" alt="MIPT" width="24px" height="24px">
+  <span>bondareva.ak@phystech.edu</span>
+  <br>
+  <img src="https://img.icons8.com/?size=100&id=cP2GtyroQAQn&format=png&color=000000" alt="Gmail" width="24px" height="24px">
+  <span>bondareva.alina.k@gmail.com</span>
+</p>
 </body>
