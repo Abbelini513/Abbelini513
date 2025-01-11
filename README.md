@@ -6,7 +6,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ1ZDFodjEyNnZjdTlndzBremJoZW1iMzdhMXpzOTNpYnBnb3ZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VJILDE3Di90qDGLSv/giphy.gif" align="right" width="373.5px" height="373.5px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM292cDY4b2l6M2dyb3BpcGQ1NWNjNzg4cjNxcXYwd25ydTA5bXI0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pLY8QHrlL9lKEpvdKQ/giphy.gif" align="right" width="207.5px" height="207.5px">
 </div>
 <li>
  <b>Name:</b> Alina (you can also call me Alisha) </li>
@@ -34,7 +34,7 @@
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <br>
 <p>
-  <div align="center">
+ <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtNW9hdDM0djZsNjNxdWhwbWY0YXcxdzJnaTd0emo2Mjh2aTU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c3jAHyF6ac9bRxMkyG/giphy.gif" alt="Knowledge GIF" align="right" width="400" height="300">
 </div>
 </p>
@@ -79,12 +79,12 @@ My first degree is in nuclear physics ☢️ (thanks to my childhood obsession w
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZkd3VyZmIwNW4zZTdnaDJsdGV2NTMzdGM4dWx5dmJiajYzdXA0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPUKkFPBXjNPG/giphy.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxtODRiMzlpMjRqYndkejF2emcxOGd0Y2c4bXU3YW91djYwc3czZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BAS4Iv3np9e2vzpaQ8/giphy.gif" align="right" width="208.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Here are some of my <br>
-most used social things, where you can find <br>
-the latest updates of my life </p>
+<p align="left">
+Here are some of my most used social things, where you can find <br>
+the latest updates of my life ~ </p>
 <p align="center"><a href="https://www.instagram.com/abbelini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple"/></a> <a href="https://steamcommunity.com/id/abbelini513/" target="_blank"><img src="https://img.shields.io/badge/Steam-darkblue"/></a> <br>
 <a href="https://www.linkedin.com/in/alina-bondareva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a><a href="https://www.researchgate.net/profile/Alina-Bondareva" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-white"></a></p>
 </div>
