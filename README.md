@@ -35,7 +35,7 @@
 <br>
 <p>
   <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtNW9hdDM0djZsNjNxdWhwbWY0YXcxdzJnaTd0emo2Mjh2aTU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c3jAHyF6ac9bRxMkyG/giphy.gif" alt="Knowledge GIF" width="480" height="270">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtNW9hdDM0djZsNjNxdWhwbWY0YXcxdzJnaTd0emo2Mjh2aTU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c3jAHyF6ac9bRxMkyG/giphy.gif" alt="Knowledge GIF" align="right" width="373.5" height="208.5">
 </div>
 </p>
 <div>
