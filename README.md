@@ -70,7 +70,7 @@
   <p>
     <img src="https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=blue&color=black" />
-    <img src="https://img.shields.io/badge/MacOS-ffffff?style=for-the-badge&logo=apple&logoColor=black&color=white" />
+    <img src="https://img.shields.io/badge/MacOS-ffffff?style=for-the-badge&logo=apple&logoColor=white&color=black" />
   </p>
 </div>
 <br>
