@@ -6,7 +6,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE3MWkwc2Y4ems4Z3ZzOG44cm1qOW91djF0NXVvdnFjNjRwc3Q1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMRB0OEsqJMiI/giphy.gif" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJlMW0xcGYzajFrdXRlYWsyM3VtZ3I4YXBhNGJjdmc2YXAwa201dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvBgr7pA6FTJOMOALY/giphy.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Alina (you can also call me Alisha) </li>
@@ -26,20 +26,54 @@
 <b>Study and Working at :</b> Moscow Institute of Physics and Technology
 </li>
 <li>
-<b>MSc thesis:</b> In silico modeling for biochemical processes of liver fibrosis based on physics-informed machine learning
+<b>MSc thesis:</b> In silico modeling for biochemical processes based on physics-informed machine learning
 </li>
 <br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
+<br>
 <p>
   <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo0YTJldXM3ZjB2bGMxdjV0eGlpcXBwc20yaGd6Z3I1OTdyajZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWgx3EEyEvJcs/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
+</p>
+<div>
+  <h3>🔭 Programming Languages:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=yellow&color=black" />
+    <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=blue&color=black" />
+  </p>
 </div>
 <div>
-  <br>
+  <h3>📚 Python Libraries:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Numpy-ffffff?style=for-the-badge&logo=numpy&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Scipy-ffffff?style=for-the-badge&logo=scipy&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Scikit_learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Pytorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=blue&color=black" />
+  </p>
+</div>
+<div>
+  <h3>💻 Technologies & Frameworks:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&logoColor=orange&color=black" />
+  </p>
+</div>
+<div>
+  <h3>🖥️ Operating Systems:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/MacOS-ffffff?style=for-the-badge&logo=apple&logoColor=black&color=white" />
+  </p>
+</div>
+<br>
 <p align="center"><img src="https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker"/><img src="https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode"/><br>
  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown"/> <img src="https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git"/> <br>
 My first degree is in nuclear physics ☢️ (thanks to my childhood obsession with S.T.A.L.K.E.R and METRO games). I worked on automating a nuclear waste processing plant and kept an eye on the process 👷‍♀️ Eventually, I realized I enjoy modeling processes in silico more because I want to get a deeper understanding of the physics behind them, and for that, you just can't do without programming 👾
