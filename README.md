@@ -74,7 +74,7 @@
   </p>
 </div>
 <br>
-<p align="center">
+<p align="justify">
 My first degree is in nuclear physics ☢️ (thanks to my childhood obsession with S.T.A.L.K.E.R and METRO games). I worked on automating a nuclear waste processing plant and kept an eye on the process 👷‍♀️ Eventually, I realized I enjoy modeling processes in silico more because I want to get a deeper understanding of the physics behind them, and for that, you just can't do without programming 👾
 </p>
 <br>
