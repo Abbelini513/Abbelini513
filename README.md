@@ -35,8 +35,8 @@
 <br>
 <p>
   <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo0YTJldXM3ZjB2bGMxdjV0eGlpcXBwc20yaGd6Z3I1OTdyajZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWgx3EEyEvJcs/giphy.gif" align="right" width="373.5px" height="208.5px">
-  </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtNW9hdDM0djZsNjNxdWhwbWY0YXcxdzJnaTd0emo2Mjh2aTU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c3jAHyF6ac9bRxMkyG/giphy.gif" alt="Knowledge GIF" width="480" height="270">
+</div>
 </p>
 <div>
   <h3>🔭 Programming Languages:</h3>
