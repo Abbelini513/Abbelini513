@@ -51,9 +51,7 @@
   <p>
     <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Numpy-ffffff?style=for-the-badge&logo=numpy&logoColor=blue&color=black" />
-    <img src="https://img.shields.io/badge/Scipy-ffffff?style=for-the-badge&logo=scipy&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
-    <img src="https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Scikit_learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Pytorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=blue&color=black" />
   </p>
