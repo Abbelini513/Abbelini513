@@ -6,8 +6,8 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJlMW0xcGYzajFrdXRlYWsyM3VtZ3I4YXBhNGJjdmc2YXAwa201dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvBgr7pA6FTJOMOALY/giphy.gif" align="right">
-  </div>
+  <img src="https://media.giphy.com/media/dvBgr7pA6FTJOMOALY/giphy.gif" align="right" width="373.5px" height="208.5px">
+</div>
 <li>
  <b>Name:</b> Alina (you can also call me Alisha) </li>
 <li>
