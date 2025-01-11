@@ -4,7 +4,7 @@
 <div id="header" align="center">
 </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 💜 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💜 </h2>
   <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwMXhkZ2M0b2VnaW5qaWZtcmFxNXpqdHQzbTc4NjZnbXh0aXN4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" align="right" width="207.5px" height="207.5px">
 </div>
