@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Digital painting and Cross stitching
 </li>
 <li>
-<b>Study and Working at :</b> Moscow Institute of Physics and Technology
+<b>Study at :</b> Moscow Institute of Physics and Technology
 </li>
 <br>
 </div>
