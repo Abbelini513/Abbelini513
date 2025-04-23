@@ -25,9 +25,6 @@
 <li>
 <b>Study and Working at :</b> Moscow Institute of Physics and Technology
 </li>
-<li>
-<b>MSc thesis:</b> In silico modeling for biochemical processes based on physics-informed machine learning
-</li>
 <br>
 </div>
 <div>
