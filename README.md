@@ -11,10 +11,10 @@
 <li>
  <b>Name:</b> Alina (you can also call me Alisha) </li>
 <li>
-<b>Age:</b> 24 
+<b>Age:</b> 25 
 </li>
 <li>
-<b>Interested in: Modeling physical and biochemical processes using machine learning 
+<b>Interested in: ML & DS  in Chemoinformatics
 </li>
 <li>
 <b>Loves:</b> Art, Animals, Action RPG games
