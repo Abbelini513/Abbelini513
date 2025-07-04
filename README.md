@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Scipy-ffffff?style=for-the-badge&logo=scipy&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Scikit_learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Pytorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/RDkit-ffffff?style=for-the-badge&logo=rdkit&logoColor=blue&color=black" />
   </p>
 </div>
 <div>
